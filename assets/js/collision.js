@@ -1,0 +1,7 @@
+const collide = ()=>{
+  
+}
+
+export {
+  collide
+}
